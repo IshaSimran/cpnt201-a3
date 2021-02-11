@@ -1,0 +1,81 @@
+@media (min-width: 432px) {
+  .top-lip {
+    fill: plum;
+  }
+
+  .bottom-lip {
+    fill: hotpink;
+  }
+
+  .big-drip {
+    fill: hotpink;
+    filter: blur(5px);
+  }
+
+  .lil-drip {
+    fill: hotpink;
+    filter: blur(5px);
+  }
+}
+
+@media (min-width: 768px) {
+  .top-lip {
+    fill: powderblue;
+  }
+
+  .bottom-lip {
+    fill: lightsalmon;
+  }
+
+  .big-drip {
+    fill: lightsalmon;
+    filter: blur(5px);
+  }
+
+  .lil-drip {
+    fill: lightsalmon;
+    filter: blur(5px);
+  }
+}
+
+
+@media (min-width: 992px) {  
+  .top-lip {
+    fill: lightgreen;
+  }
+
+  .bottom-lip {
+    fill:  skyblue;
+  }
+
+  .big-drip {
+    fill: skyblue;
+    filter: blur(5px);
+  }
+
+  .lil-drip {
+    fill: skyblue;
+    filter: blur(5px);
+  }
+}
+
+
+@media (min-width: 1200px) {
+  .top-lip {
+    fill: lemonchiffon;
+  }
+
+  .bottom-lip {
+    fill: palevioletred;
+  }
+
+  .big-drip {
+    fill: palevioletred;
+    filter: blur(5px);
+  }
+
+  .lil-drip {
+    fill: palevioletred;
+    filter: blur(5px);
+  }
+}
