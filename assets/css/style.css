@@ -1,6 +1,6 @@
 /***** Original svg size *****/
 
-@media (min-width: 300px) {
+@media (min-width: 301px) {
   .top-lip {
     fill: plum;
   }
@@ -22,7 +22,7 @@
 
 /***** Mobile Screens *****/
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   .top-lip {
     fill: powderblue;
   }
