@@ -1,4 +1,9 @@
-/***** Original svg size *****/
+.background {
+  background-color: black;
+}
+
+
+/***** Original svg size And Mobile Screen *****/
 
 @media (min-width: 301px) {
   .top-lip {
@@ -20,7 +25,7 @@
   }
 }
 
-/***** Mobile Screens *****/
+/***** Tablet Screens *****/
 
 @media (max-width: 768px) {
   .top-lip {
@@ -42,7 +47,7 @@
   }
 }
 
-/***** Tablet Screens *****/
+/***** Desktop Screens *****/
 
 @media (min-width: 992px) {  
   .top-lip {
