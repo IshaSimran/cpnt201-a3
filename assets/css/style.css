@@ -1,8 +1,3 @@
-.background {
-  background-color: black;
-}
-
-
 /***** Original svg size And Mobile Screen *****/
 
 @media (min-width: 301px) {
@@ -14,12 +9,12 @@
     fill: hotpink;
   }
 
-  .big-drip {
+  .big-drop {
     fill: hotpink;
     filter: blur(5px);
   }
 
-  .lil-drip {
+  .lil-drop {
     fill: hotpink;
     filter: blur(5px);
   }
@@ -36,12 +31,12 @@
     fill: lightsalmon;
   }
 
-  .big-drip {
+  .big-drop {
     fill: lightsalmon;
     filter: blur(5px);
   }
 
-  .lil-drip {
+  .lil-drop {
     fill: lightsalmon;
     filter: blur(5px);
   }
@@ -58,12 +53,12 @@
     fill:  skyblue;
   }
 
-  .big-drip {
+  .big-drop {
     fill: skyblue;
     filter: blur(5px);
   }
 
-  .lil-drip {
+  .lil-drop {
     fill: skyblue;
     filter: blur(5px);
   }
@@ -80,12 +75,12 @@
     fill: palevioletred;
   }
 
-  .big-drip {
+  .big-drop {
     fill: palevioletred;
     filter: blur(5px);
   }
 
-  .lil-drip {
+  .lil-drop {
     fill: palevioletred;
     filter: blur(5px);
   }
